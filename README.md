@@ -24,3 +24,4 @@ Bitwise operators allow direct manipulation of bits, making programs **faster an
 
 6. **Right Shift (`>>`)** → Shifts bits to the right, discarding shifted bits.  
    Example: `5 >> 1 = 2`
+
