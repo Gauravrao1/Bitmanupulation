@@ -5,5 +5,5 @@ public class clearlastibits {
         }
         public static void main(String[] args) {
                 System.out.println(clearitbit(15, 2));
-        }
+        } 
 }
