@@ -2,7 +2,7 @@ public class check_power_two {
         public static boolean ispoweroftwo(int n){
         return (n&(n-1)) == 0;}
       public static void main(String args[]){
- System.out.println(ispoweroftwo(8));
+ System.out.println(ispoweroftwo(8)); 
               }
 
         }
